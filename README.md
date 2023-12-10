@@ -14,11 +14,11 @@ This project aims to predict 5-year survival post-lung cancer diagnosis using sy
 The project is organized into several notebooks:
 
 - **final-workflow.ipynb:** The main notebook that brings together data cleaning, feature engineering, feature selection, and model training using an ensemble of Gradient Boosting, XGBoost, Random Forest, and SVM. Every other notebook has mostly been used for exploration and testing purposes.
-- **data-exploration.ipynb:** Explore the structure and characteristics of the provided data.
+- **data-exploration.ipynb:** Explore the structure and characteristics of the provided data and proceeded to some very rudimentary training and predictions.
 - **data-preprocessing.ipynb:** Preprocess the data, handle missing values, and prepare it for further analysis.
 - **feature-selection.ipynb:** Experiment with feature selection techniques, including PCA and Stepwise Selection.
 - **model-selection.ipynb:** Test and evaluate different machine learning models.
-- **random_forest.ipynb:** In-depth exploration and analysis of the Random Forest model.
+- **random_forest.ipynb:** Different tests and analysis with the Random Forest model.
 
 ## How to Replicate the Analysis
 1. **Clone the Repository:**
